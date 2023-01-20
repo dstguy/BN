@@ -1,0 +1,67 @@
+.kontaktaiContainer{
+    position: fixed;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    text-align: center;
+    align-content: center;
+    object-fit:cover;
+    opacity: 0.9;
+    width:100%;
+    height:100vh;
+    overflow: scroll;
+   
+}
+.kontaktaiMobContainer{
+    position: fixed;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    align-content: center;
+    opacity: 0.9;
+    width:100%;
+    height:100vh;
+    z-index: -1;
+  }
+.h1{
+    font-size: 4vw;
+    margin-top: 2rem;
+}
+.mapDiv{
+    margin-top: 5rem;
+}
+.h3{
+    font-size: 1.5vw;
+}
+.h4{
+ font-size: 1.5vw;
+}
+.h5{
+    font-size: 1.5vw;
+}
+
+@media (max-width: 915px){
+    .h1{
+        font-size: 5vw;
+        margin-top: 2rem;
+    }
+    .mapDiv{
+        margin-top: 5rem;
+    }
+    .h3{
+        font-size: 3.5vw;
+    }
+    .h4{
+     font-size: 3.5vw;
+    }
+    .h5{
+        font-size: 3.5vw;
+    }
+}
+@media (max-height: 428px){
+    .mapDiv{
+        margin-top: 1vw;
+    }
+}

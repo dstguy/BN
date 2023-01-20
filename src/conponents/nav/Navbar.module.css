@@ -1,0 +1,105 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1C1B22;
+    padding: 1rem 1.5rem;
+    opacity: 0.8;
+  }
+  .navLogo {
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-style: 'Moon Dance';
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .navLogo:hover{
+    color: #61616e;
+    transform:scale(1.2);
+  }
+  .navMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navItem {
+    margin-left: 3rem;
+  }
+  
+  .navLink{
+    font-size: 1.5rem;
+    color: white;
+    transition: 0.5s;
+  }
+  
+  .navLink:hover{
+    color: #61616e;
+    transform:scale(1.2);
+  }
+  .hamburger {
+    display: none;
+  }
+  
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+  }
+  @media (max-width: 888px) {
+    .nav{
+      display: none;
+    }
+    .navMenu {
+      position:absolute;
+      top: 4.4rem;
+      flex-direction: column;
+      background-color: rgba(11, 11, 11, 0.9);
+      width: 100%;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      transition: 0.3s;
+  }
+
+  .navMenu {
+      left: 0;
+  }
+
+  .navItem {
+      margin: 2.5rem 0;
+
+  }
+
+  .hamburger {
+      display: block;
+      cursor: pointer;
+  }
+  @media (max-width: 520px) {
+    .navbar{
+      flex-direction: column;
+    }
+    .navMenu {
+      position:absolute;
+      top: 6rem;
+  }
+  }
+  }
+  @media (max-width: 385px){
+    .navMenu {
+      position:absolute;
+      top: 4.5rem;
+  }
+  .navbar {
+  
+    align-items: center;
+   
+    padding: 1vw 1.5vw;
+    opacity: 0.8;
+  }
+  }
