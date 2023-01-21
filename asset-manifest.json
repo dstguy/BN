@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BN/static/css/main.3c168f57.css",
+    "main.js": "/BN/static/js/main.f7f72f30.js",
+    "static/media/Vilnius.mp4": "/BN/static/media/Vilnius.9ee9d74fa399f68a2975.mp4",
+    "static/media/Agreement-En.png": "/BN/static/media/Agreement-En.97f4170096d2071c8d08.png",
+    "static/media/Agreement.png": "/BN/static/media/Agreement.948a49091e8e3c5493df.png",
+    "static/media/Agreement-Lt.png": "/BN/static/media/Agreement-Lt.04520caed3244ede5768.png",
+    "static/media/Agreement-Ukr.png": "/BN/static/media/Agreement-Ukr.749baf07291d7c2ad0ec.png",
+    "static/media/Agreement-Ru.png": "/BN/static/media/Agreement-Ru.4e0080eb07971c8ec877.png",
+    "static/media/viber.png": "/BN/static/media/viber.d9116ae200fd2dfb87d4.png",
+    "static/media/WhatsApp.png": "/BN/static/media/WhatsApp.0c171b9d6e8a32435c5b.png",
+    "static/media/skype.png": "/BN/static/media/skype.b4b11d904e245405da84.png",
+    "index.html": "/BN/index.html",
+    "main.3c168f57.css.map": "/BN/static/css/main.3c168f57.css.map",
+    "main.f7f72f30.js.map": "/BN/static/js/main.f7f72f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c168f57.css",
+    "static/js/main.f7f72f30.js"
+  ]
+}
