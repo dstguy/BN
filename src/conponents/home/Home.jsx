@@ -20,7 +20,7 @@ export default function Home() {
            patogiai, greitai ir saugiai susiraskite savo svajonių būstą. „Butai 
            nuomai Vilniaus senamiestyje, MB“ rasite platų nekilnojamojo turto asortimentą,
            nuo studijų ir butų iki individualių namų, įrengtų ar neįrengtų,
-           skirtų tiek laikinai, tiek ilgalaikiam gyvenimui. Mūsų paslaugos pasižymi,
+           skirtų tiek laikinam, tiek ilgalaikiam gyvenimui. Mūsų paslaugos pasižymi,
            profesionalumu ir nepriekaištingos kokybės standartais.
           </p>
     </div>
