@@ -93,7 +93,7 @@
   @media (max-width: 400px){
     .navMenu {
       position:absolute;
-      top: 7rem;
+      top: 3.2em;
   }
   .navbar {
     align-items: center;
