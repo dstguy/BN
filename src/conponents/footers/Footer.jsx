@@ -27,17 +27,17 @@ import {motion} from 'framer-motion'
               animate={animateT}
               transition={{delay: 1}}  
               
-            style={{width:'1rem'}}><a href='viber://chat?number=%2B37067047345' target={'_blank'}><li className={classes.li}><img className={classes.icon} src={viber} alt="viber-icon" /></li></a></motion.div>
+            style={{width:'1rem'}}><a className={classes.a}  href='viber://chat?number=%2B37067047345' target={'_blank'}><li className={classes.li}><img className={classes.icon} src={viber} alt="viber-icon" /></li></a></motion.div>
             <motion.div
               initial={animateF}
               animate={animateT}
               transition={{delay: 1.1}}  
-            style={{width:'1rem'}}><a href="https://api.whatsapp.com/send?phone=37067047345" target={'_blank'}><li className={classes.li}><img className={classes.icon} src={WhatsApp} alt="whatsapp-icon" /></li></a></motion.div>
+            style={{width:'1rem'}}><a className={classes.a}  href="https://api.whatsapp.com/send?phone=37067047345" target={'_blank'}><li className={classes.li}><img className={classes.icon} src={WhatsApp} alt="whatsapp-icon" /></li></a></motion.div>
             <motion.div
               initial={animateF}
               animate={animateT}
               transition={{delay: 1.2}}  
-            style={{width:'1rem'}}><a href="skype:+37067047345?call" target={'_blank'}><li className={classes.li}> <img className={classes.icon} src={skype} alt="skype-icon" /></li></a></motion.div>
+            style={{width:'1rem'}}><a className={classes.a} href="skype:+37067047345?call" target={'_blank'}><li className={classes.li}> <img className={classes.icon} src={skype} alt="skype-icon" /></li></a></motion.div>
             </div>
        </div>
        </div>

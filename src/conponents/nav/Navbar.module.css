@@ -90,16 +90,17 @@
   }
   }
   }
-  @media (max-width: 385px){
+  @media (max-width: 400px){
     .navMenu {
       position:absolute;
-      top: 4.5rem;
+      top: 7rem;
   }
   .navbar {
-  
     align-items: center;
-   
     padding: 1vw 1.5vw;
     opacity: 0.8;
+  }
+  .navLogo{
+    font-size: 5vw;
   }
   }
