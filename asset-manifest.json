@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BN/static/css/main.abf20707.css",
+    "main.css": "/BN/static/css/main.1dccccc1.css",
     "main.js": "/BN/static/js/main.e521ca93.js",
     "static/media/Vilnius.mp4": "/BN/static/media/Vilnius.9ee9d74fa399f68a2975.mp4",
     "static/media/Agreement-En.png": "/BN/static/media/Agreement-En.97f4170096d2071c8d08.png",
@@ -12,11 +12,11 @@
     "static/media/WhatsApp.png": "/BN/static/media/WhatsApp.0c171b9d6e8a32435c5b.png",
     "static/media/skype.png": "/BN/static/media/skype.b4b11d904e245405da84.png",
     "index.html": "/BN/index.html",
-    "main.abf20707.css.map": "/BN/static/css/main.abf20707.css.map",
+    "main.1dccccc1.css.map": "/BN/static/css/main.1dccccc1.css.map",
     "main.e521ca93.js.map": "/BN/static/js/main.e521ca93.js.map"
   },
   "entrypoints": [
-    "static/css/main.abf20707.css",
+    "static/css/main.1dccccc1.css",
     "static/js/main.e521ca93.js"
   ]
 }
